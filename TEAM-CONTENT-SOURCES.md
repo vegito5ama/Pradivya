@@ -27,4 +27,8 @@ Advisor inclusion comes from the supplied Pradivya Physical AI framework and the
   - Temasek Review: https://www.temasek.com.sg/content/dam/temasek-corporate/our-financials/investor-library/annual-review/en-tr-thumbnail-and-pdf/temasek-review-2006.pdf
   - Archive LinkedIn: https://www.linkedin.com/in/r-shyam-shyamsunder-a4b96843/
 
+- P.K. Agarwal (added 2026-11-10, confirmed by the user): Advisor. Card uses only two facts the user approved — Dean of UCSC Silicon Valley Extension since August 2019; previously Dean and CEO of Northeastern University–Silicon Valley. Portrait downloaded into `public/team/pk-agarwal.png`.
+  - Leadership page: https://siliconvalley.ucsc.edu/about/leadership/
+  - Portrait original: https://bpb-us-w2.wpmucdn.com/wordpress.ucsc.edu/dist/5/237/files/2024/09/PK-Agarwal-portrait.png
+
 Before public release: confirm current titles, approved short biographies, advisor listing approval and portrait-use approval. These checks belong to publication, not to the visible biography text.
